@@ -1,8 +1,8 @@
-# liuteriadautore
+# Nuxt i18n Boilerplate
 
 ## Build Setup
 
-```bash
+```bas
 # install dependencies
 $ yarn install
 
