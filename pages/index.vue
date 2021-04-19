@@ -21,7 +21,7 @@
 <template>
   <div class="container">
     <div>
-      <h2 class="mt-10">{{ $t('hello') }}</h2>      
+      <h2 class="mt-10">{{ $t('hello') }}</h2>
       <Logo />
       <h1 class="title">liuteriadautore</h1>
       <div class="links">
