@@ -88,5 +88,6 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# do not track history
 /.history
-/.nuxt
