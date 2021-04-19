@@ -2,6 +2,6 @@ export default {
   hello: 'Olá Mundo!',
   pages: {
     home: 'Home',
-    contacts: 'Contacts',
+    contacts: 'Contatos',
   },
 }
